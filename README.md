@@ -1,4 +1,5 @@
 # Cerebro
+Cerebro is a markdown-based research document editor designed for researchers and professionals. It offers seamless LaTeX integration for advanced mathematical expressions and document formatting, making it a perfect tool for academic and technical writing. With efficient organization features and support for code integration, Cerebro helps users write, organize, and manage their research documents effectively.
 ## Key Features:
 - **Markdown Support**: Easy-to-use markdown editor for seamless document formatting.
 - **Latex Support**: Full support for Latex to write complex mathematical equations and structures.
